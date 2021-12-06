@@ -1,6 +1,6 @@
 # Advent of Code Javascript Starter
 
-A tamplate for [Advent of Code](https://adventofcode.com) written in Javascript with Node.
+A template for [Advent of Code](https://adventofcode.com) written in Javascript with Node.
 
 ## Usage
 
@@ -12,6 +12,7 @@ as ES6 Modules to CommonJS transpiler and [swc](https://swc.rs) with [Jest](http
 
     # install dependencies
     $ npm install
+    $ npm i -D @swc/cli @swc/core
 
     # check syntax with eslint
     $ npm run lint day01
