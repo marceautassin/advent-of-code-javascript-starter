@@ -12,7 +12,6 @@ as ES6 Modules to CommonJS transpiler and [swc](https://swc.rs) with [Jest](http
 
     # install dependencies
     $ npm install
-    $ npm i -D @swc/cli @swc/core
 
     # check syntax with eslint
     $ npm run lint day01
